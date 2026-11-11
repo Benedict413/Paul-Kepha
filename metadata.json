@@ -1,0 +1,6 @@
+{
+  "name": "HustleHub - Kenya Services Marketplace & AI Assistant",
+  "description": "Professional AI-powered Kenyan local services & freelancing marketplace with M-Pesa payments, HustleAI assistant, and verified service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
